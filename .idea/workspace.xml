@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="28c9dfc6-19de-4241-8828-ac877c57cfe0" name="Default Changelist" comment="">
+    <list default="true" id="28c9dfc6-19de-4241-8828-ac877c57cfe0" name="Default Changelist" comment="修改java版本">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +56,8 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="SvnConfiguration" cleanupOnStartRun="true">
@@ -51,23 +70,79 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591848077324</updated>
-      <workItem from="1591848081272" duration="468000" />
+      <workItem from="1591848081272" duration="925000" />
     </task>
+    <task id="LOCAL-00001" summary="修改java版本">
+      <created>1591848579564</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591848579564</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="修改java版本" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改java版本" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="371" y="0" key="CommitChangelistDialog2" timestamp="1591848242901">
+    <state x="225" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591848714069">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="371" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1591848242901" />
+    <state x="225" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1591848714069" />
+    <state x="371" y="0" key="CommitChangelistDialog2" timestamp="1591848972542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="371" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1591848972542" />
+    <state x="148" y="65" key="DiffContextDialog" timestamp="1591848564724">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="148" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1591848564724" />
     <state x="550" y="168" key="FileChooserDialogImpl" timestamp="1591848120942">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -80,9 +155,17 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="484" y="114" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1591848228269" />
-    <state x="271" y="0" key="SettingsEditor" timestamp="1591848548492">
+    <state x="271" y="0" key="SettingsEditor" timestamp="1591848553279">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="271" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591848548492" />
+    <state x="271" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591848553279" />
+    <state x="362" y="146" key="Vcs.Push.Dialog.v2" timestamp="1591848755212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1591848755212" />
+    <state x="567" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591848716445">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="567" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1591848716445" />
   </component>
 </project>
